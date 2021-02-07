@@ -1,6 +1,7 @@
 # personalExpenses
 
-A new Flutter project.
+A project based on course about Flutter.
+Created an application to control weekly epenses.
 
 ## Getting Started
 
